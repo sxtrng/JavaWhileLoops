@@ -26,6 +26,6 @@ public class WhileOneC {
         }
 
         System.out.println("\n");
-
+        scanner.close();
     }
 }
